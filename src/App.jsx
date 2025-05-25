@@ -18,7 +18,9 @@ function App() {
       <div className='min-h-screen flex justify-center items-center'>
         <button className='bg-amber-300 border p-2 rounded-lg hover:cursor-pointer' onClick={() => HandleClickFromFirstButton()}>Click me</button>
         <button className='bg-amber-300 border p-2 rounded-lg hover:cursor-pointer' onClick={() => HandleClickFromFirstButton()}>Click me</button>
- 
+        <div>
+          Hello
+        </div>
       </div>
       
     </div>
